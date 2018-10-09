@@ -4,3 +4,5 @@
 ## Author: EmilG (Yasz @ EU-Ragnaros) & NicolaiT (Cirdan @ EU-Ragnaros)
 ## Notes: Guild Addon for <Fuld Ild>
 ## DefaultState: enabled
+
+fuldildaddon.lua
