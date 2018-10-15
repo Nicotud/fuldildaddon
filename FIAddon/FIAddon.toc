@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: |cffff6600<Fuld Ild>|r Roster Tool
+## Version: 0.1
+## Author: EmilG (Yasz @ EU-Ragnaros) & NicolaiT (Cirdan @ EU-Ragnaros)
+## Notes: Guild Addon for <Fuld Ild>
+## DefaultState: enabled
+
+Core.lua
